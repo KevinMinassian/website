@@ -1,14 +1,14 @@
 export const siteConfig = {
-  title: "Eric Minassian",
+  title: "Kevin Minassian",
   description:
     "SDE Intern at Amazon. Previously at Walmart. Studying CS + Business Administration at the University of California, Irvine.",
-  author: "Eric Minassian",
-  url: "https://www.ericminassian.com",
+  author: "Kevin Minassian",
+  url: "https://www.kevinminassian.com",
   themeColor: "#111010",
 } as const;
 
 export const personalConfig = {
-  name: "eric",
+  name: "kevin",
   emoji: "👋",
   description: `
   I currently work as a Software Development Engineer at [Amazon](https://amazon.com),
